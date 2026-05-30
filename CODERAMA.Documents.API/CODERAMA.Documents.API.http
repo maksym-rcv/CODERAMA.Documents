@@ -1,0 +1,6 @@
+@CODERAMA.Documents.API_HostAddress = http://localhost:5010
+
+GET {{CODERAMA.Documents.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
